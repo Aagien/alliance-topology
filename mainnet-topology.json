@@ -69,6 +69,16 @@
       "addr": "relays-new.cardano-mainnet.iohk.io",
       "port": 3001,
       "valency": 2
+    },
+    {
+    "addr": "167.99.234.97",
+    "port": 3000,
+    "valency": 1
+    },
+    {
+    "addr": "128.199.13.19",
+    "port": 3000,
+    "valency": 1
     }
   ]
 }
